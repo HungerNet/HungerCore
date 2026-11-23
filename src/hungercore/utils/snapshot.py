@@ -1,8 +1,5 @@
 import time
 from statistics import mean
-from hungercore.panel import Panel
-from hungercore.servers.generic import GenericServer
-from hungercore.servers.minecraft import MinecraftServer
 
 
 class Snapshot:
